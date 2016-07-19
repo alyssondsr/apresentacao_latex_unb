@@ -1,5 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{Introdu\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
-\beamer@sectionintoc {2}{Mapeamento Sistem\IeC {\'a}tico}{8}{0}{2}
-\beamer@sectionintoc {3}{Resultados}{15}{0}{3}
-\beamer@sectionintoc {4}{Conclus\IeC {\~o}es}{18}{0}{4}
